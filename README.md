@@ -23,4 +23,4 @@ I'm deeply interested in providing real-world solutions, while I enhance my abil
 
 [![](https://img.shields.io/badge/LinkedIn-Gabriel_Llerena_Quenaya-0077B5?style=for-the-badge)](https://www.linkedin.com/in/gabriel-llerena-quenaya/)
 </br>
-[![](https://img.shields.io/badge/Credly-My_Digital_Badges-0094R1?style=for-the-badge)](https://www.credly.com/users/gabriel-alonso-llerena-quenaya)
+[![](https://img.shields.io/badge/Credly-My_Digital_Badges-0094Z1?style=for-the-badge)](https://www.credly.com/users/gabriel-alonso-llerena-quenaya)
